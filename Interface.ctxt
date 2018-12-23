@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Interface
+comment1.params=
+comment1.target=Interface()
+comment2.params=main
+comment2.target=void\ requestInfo(Main)
+comment3.params=list\ firstNum
+comment3.target=void\ printResult(java.util.ArrayList,\ int)
+numComments=4
